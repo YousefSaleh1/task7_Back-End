@@ -5,14 +5,12 @@ Relations in Laravel
 ## Installation
 
 You Must run the migrations:
-
 ```bash
 php artisan migrate
 ```
 
 
 After that run the sedders:
-
 ```bash
 php artisan db:seed
 ```
